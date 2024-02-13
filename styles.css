@@ -25,7 +25,7 @@ body {
 }
 
 .banner {
-    background-image: url(banner_bg.png);
+    background-image: url(banner_bg.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
